@@ -43,7 +43,7 @@ After successful compilation, execute the program while including the Jsoup JAR 
 ```bash
 java -cp .;jsoup-1.18.3.jar WebScraper
 ```
-## Note: On Unix-based systems (macOS or Linux), replace the semicolon (;) with a colon (:):
+#### Note: On Unix-based systems (macOS or Linux), replace the semicolon (;) with a colon (:):
 ```bash
 java -cp .:jsoup-1.18.3.jar WebScraper
 ```
